@@ -82,6 +82,14 @@ Let's break down the main components and how they interact:
 
 5. Open your browser and go to `http://localhost:3000`.
 
+## 🚀 Outputs
+
+![Home](images/Home.png "Home Page")
+![Register/Login](images/Register.png "Register Page")
+![User Page](images/User.png "User Page")
+![Renter Page](images/Renter.png "Renter Page")
+![Rentals](images/Rentals.png "Rentals Popup")
+
 ## 🎓 Applied Topics
 
 - **React Hooks**: Dive deeper into useState, useEffect, and useCallback.
@@ -106,4 +114,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open a pull request or submit an issue.
+
 Happy reading and happy coding! 📚💻
